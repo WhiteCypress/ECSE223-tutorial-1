@@ -1,2 +1,0 @@
-hello DUDE 
-command is "nano hi.txt"
